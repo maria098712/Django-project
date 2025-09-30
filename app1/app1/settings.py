@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-7l7ybyt9s*r$v--emn$obm(io-nim@evk1k1v4#cram6wx^67r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['maria009.pythonanywhere.com']
+ALLOWED_HOSTS = ["task-django-uepv.onrender.com", "localhost", "127.0.0.1"]
 
 
 # Application definition
